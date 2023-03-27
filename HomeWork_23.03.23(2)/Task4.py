@@ -1,0 +1,1 @@
+print(int(''.join(filter(lambda x: x not in '36', input('n = ')))))
