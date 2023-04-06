@@ -1,0 +1,5 @@
+text = input("text: ")
+word = input("word: ")
+new_text = text.lower()
+count_text = new_text.count(word)
+print(count_text)
